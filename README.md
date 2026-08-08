@@ -30,7 +30,7 @@ The objective of this project is to analyze retail sales data, identify revenue 
 
 ### Executive Overview
 
-![Executive Overview](images/Page1.png)
+![Executive Overview](screenshots/Page1.png)
 
 ---
 - Executive KPI Cards
@@ -48,7 +48,7 @@ The objective of this project is to analyze retail sales data, identify revenue 
 
 ### Product & Category Analysis
 
-![Product Analysis](images/Page2.png)
+![Product Analysis](screenshots/Page2.png)
 
 ---
 
@@ -65,7 +65,7 @@ The objective of this project is to analyze retail sales data, identify revenue 
 
 ### Regional & Customer Analysis
 
-![Regional Analysis](images/Page3.png)
+![Regional Analysis](screenshots/Page3.png)
 
 ---
 
