@@ -150,10 +150,10 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## 👨‍💻 Author
 
-**Himanshu Lamba**
+**Himanshu**
 
 📧 himanshu987574@gmail.com
 
-🔗 LinkedIn: *(Add your LinkedIn profile)*
+🔗 LinkedIn: *www.linkedin.com/in/himanshu-lamba-54136833a*
 
 ⭐ If you found this project useful, don't forget to give it a **Star**.
