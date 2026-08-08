@@ -140,10 +140,33 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 ## 🚀 How to Use
 
-1. Clone or download this repository.
-2. Open **Sales_Performance_Dashboard.pbix** in Power BI Desktop.
-3. Use the slicers to filter data by Year, Region, Category, Segment, and State.
-4. Explore all three dashboard pages for interactive business insights.
+git clone https://github.com/Himanshu04082/sales-performance-dashboard.git
+cd sales-performance-dashboard
+
+pip install -r requirements.txt
+
+# Run the data-cleaning / EDA notebooks
+jupyter notebook notebooks/
+
+# Set up the MySQL database
+# 1. Create the database in MySQL:
+CREATE DATABASE superstore;
+
+# 2. Run the MySQL schema:
+sql/00_schema_mysql.sql
+
+# 3. Update MySQL credentials in:
+notebooks/load_data_mysql.py
+
+# 4. Load the cleaned dataset:
+python notebooks/load_data_mysql.py
+
+# 5. Run the SQL analysis:
+sql/01_business_queries.sql
+sql/02_advanced_queries.sql
+
+# Open the Power BI dashboard:
+dashboard/Sales_Performance_Dashboard.pbix
 
 ---
 
