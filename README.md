@@ -125,7 +125,6 @@ sales-performance-dashboard/
 ├── images/
 ├── screenshots/
 ├── requirements.txt
-├── LICENSE
 └── README.md
 ```
 
